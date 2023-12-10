@@ -1,0 +1,16 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+}
+
+.box_poz {
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+.img{
+    width: 100%;
+}
